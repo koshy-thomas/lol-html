@@ -17,6 +17,8 @@
 //! [`HtmlRewriter`]: struct.HtmlRewriter.html
 //! [`rewrite_str`]: fn.rewrite_str.html
 
+#[warn(missing_docs)]
+
 #[macro_use]
 mod base;
 
