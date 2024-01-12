@@ -66,7 +66,6 @@ declare_tags! {
     Nobr = 643_319u64,
     Noembed = 21_083_266_377u64,
     Noframes = 674_703_296_856u64,
-    Noscript = 675_124_329_145u64,
     Ol = 657u64,
     P = 21u64,
     Param = 22_240_466u64,
