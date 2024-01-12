@@ -120,7 +120,7 @@ macro_rules! create_assert_for_tags {
 }
 
 create_assert_for_tags!(
-    Textarea, Title, Plaintext, Script, Style, Iframe, Xmp, Noembed, Noframes, Noscript
+    Textarea, Title, Plaintext, Script, Style, Iframe, Xmp, Noembed, Noframes
 );
 
 #[derive(Copy, Clone)]
